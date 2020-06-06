@@ -1,3 +1,5 @@
+
+//this is the warn-up code in hackerrank
 #include<iostream>
 #include<vector>
 using namespace std;
